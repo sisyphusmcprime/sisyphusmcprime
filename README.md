@@ -19,7 +19,7 @@ i'm a guy who does stuff on linux and codes sometimes
 
 
 i have experience in:
-* fullstack web dev (check out [prabuuce/weather-graphics](github.com/prabuuce/weather-graphics))
+* fullstack web dev (check out [sisyphusmcprime/weather-graphics](github.com/sisyphusmcprime/weather-graphics))
 * building AIs using:
   * Tensorflow and scikit for neural network and machine learning
   * ntlk for NLP
