@@ -23,7 +23,7 @@ i have experience in:
 * building AIs using:
   * Tensorflow and scikit for neural network and machine learning
   * ntlk for NLP
-  as well as building simpler models (such as search algorithms or optimization algorithms) with pure Python
+  as well as building simpler models (such as search algorithms or optimization algorithms) with pure Python (check out [me50/sisyphusmcprime](github.com/me50/sisyphusmcprime))
 
 i do a lot of automation and scripting as well, which consists of:
 * Selenium/Playwright for browser automation (check out [sisyphusmcprime/delete_gemini_chats](github.com/sisyphusmcprime/delete_gemini_chats))
