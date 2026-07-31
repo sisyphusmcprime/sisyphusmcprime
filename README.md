@@ -26,7 +26,7 @@ i have experience in:
   as well as building simpler models (such as search algorithms or optimization algorithms) with pure Python
 
 i do a lot of automation and scripting as well, which consists of:
-* Selenium/Playwright for browser automation
+* Selenium/Playwright for browser automation (check out [sisyphusmcprime/delete_gemini_chats](github.com/sisyphusmcprime/delete_gemini_chats)
 * Bash (obviously, I use Linux (the best OS))
 
 as for devops:
