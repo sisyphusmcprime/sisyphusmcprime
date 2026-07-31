@@ -19,14 +19,14 @@ i'm a guy who does stuff on linux and codes sometimes
 
 
 i have experience in:
-* fullstack web dev (check out [sisyphusmcprime/weather-graphics](github.com/sisyphusmcprime/weather-graphics))
+* fullstack web dev (check out [sisyphusmcprime/weather-graphics](https://github.com/sisyphusmcprime/weather-graphics))
 * building AIs using:
   * Tensorflow and scikit for neural network and machine learning
   * ntlk for NLP
-  as well as building simpler models (such as search algorithms or optimization algorithms) with pure Python (check out [me50/sisyphusmcprime](github.com/me50/sisyphusmcprime))
+  as well as building simpler models (such as search algorithms or optimization algorithms) with pure Python (check out [me50/sisyphusmcprime](https://github.com/me50/sisyphusmcprime))
 
 i do a lot of automation and scripting as well, which consists of:
-* Selenium/Playwright for browser automation (check out [sisyphusmcprime/delete_gemini_chats](github.com/sisyphusmcprime/delete_gemini_chats))
+* Selenium/Playwright for browser automation (check out [sisyphusmcprime/delete_gemini_chats](https://github.com/sisyphusmcprime/delete_gemini_chats))
 * Bash (obviously, I use Linux (the best OS))
 
 as for devops:
