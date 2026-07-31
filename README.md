@@ -25,6 +25,11 @@ i have experience in:
 
   as well as building simpler models (such as search algorithms or optimization algorithms) with pure Python
 
+as well as:
+* Kubernetes/Docker (deployment infrastructure)
+* Cloud computing as well as work on some bare metal (i'm a computer hobbyist on the side)
+* Linux (i use arch btw (kinda i use fedora now
+
 i've coded for the past 5 years using languages such as:
 * Python
 * JS
